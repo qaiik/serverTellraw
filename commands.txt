@@ -1,0 +1,4 @@
+/replaceitem entity @a slot.armor.head minecraft:diamond_helmet 1 0 {ench:[{id:0s,lvl:4s}]}
+/replaceitem entity @a slot.armor.chest minecraft:diamond_chestplate 1 0 {ench:[{id:0s,lvl:4s}]}
+/replaceitem entity @a slot.armor.legs minecraft:diamond_leggings 1 0 {ench:[{id:0s,lvl:4s}]}
+/replaceitem entity @a slot.armor.feet minecraft:diamond_boots 1 0 {ench:[{id:0s,lvl:4s}]}
